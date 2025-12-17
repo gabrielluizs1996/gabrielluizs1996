@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel
 
-Sou **Desenvolvedor Frontend Sênior**, com foco em **Angular**, **TypeScript** e **Acessibilidade (a11y)**. Gosto de criar interfaces que não só funcionam bem, mas que **realmente possam ser usadas por todas as pessoas**.
+Sou **Desenvolvedor Frontend Sênior**, com foco em  **React**, **Angular**, **TypeScript** e **Acessibilidade (a11y)**. Gosto de criar interfaces que não só funcionam bem, mas que **realmente possam ser usadas por todas as pessoas**.
 
 Tenho experiência em projetos de grande escala, arquitetura frontend, boas práticas de código e testes. Curto resolver problemas complexos com soluções simples, bem pensadas e sustentáveis.
 
