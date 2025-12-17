@@ -1,4 +1,3 @@
-[git_hub_profile_readme_gabriel.md](https://github.com/user-attachments/files/24220574/git_hub_profile_readme_gabriel.md)
 # 👋 Olá, eu sou o Gabriel
 
 Sou **Desenvolvedor Frontend Sênior**, com foco em **Angular**, **TypeScript** e **Acessibilidade (a11y)**. Gosto de criar interfaces que não só funcionam bem, mas que **realmente possam ser usadas por todas as pessoas**.
