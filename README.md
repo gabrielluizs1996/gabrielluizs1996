@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://github.com/user-attachments/assets/9df46b6a-82d2-438f-95da-efb2821f3573" />
+<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá,%20Eu%20sou%20o%20Gabriel&fontSize=40&desc=Frontend%20Engineer&textBg=false&reversal=false" />
 <br><br>
 
 Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonado por criar **interfaces acessíveis, escaláveis e bem estruturadas**.
