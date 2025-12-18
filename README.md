@@ -6,12 +6,6 @@ Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonad
 Atuo principalmente em projetos de médio e grande porte, com atenção especial à **arquitetura frontend**, **acessibilidade (A11y)** e **qualidade de código**.
 
 <br><br>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150">
-</div>
-<br><br>
-
 ## 🚀 Sobre mim
 
 - 💼 Desenvolvedor Frontend Sênior
@@ -23,12 +17,6 @@ Atuo principalmente em projetos de médio e grande porte, com atenção especial
 Gosto de código limpo, bem documentado e que facilite a vida de quem vai manter depois.
 
 <br><br>
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
-</div>
-
-<br><br>
-
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend**
