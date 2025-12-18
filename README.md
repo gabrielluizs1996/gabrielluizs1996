@@ -5,26 +5,6 @@ Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonad
 
 Atuo principalmente em projetos de médio e grande porte, com atenção especial à **arquitetura frontend**, **acessibilidade (A11y)** e **qualidade de código**.
 
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Frontend**
-- React | Angular | TypeScript | JavaScript
-- HTML5 | CSS3 | SCSS
-
-**Testes**
-- Playwright
-
-**Boas práticas**
-- Acessibilidade (A11y)
-- Clean Code
-- Componentização
-- Performance
-
-**Ferramentas**
-- Git | GitHub
-- Figma (colaboração com design)
-
 <br><br>
 <div align="center">
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/67d532c9-b228-4ed4-8cf7-4ee5980a60ea" />
