@@ -1,6 +1,6 @@
-<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá,%20Eu%20sou%20o%20Gabriel&fontSize=40&desc=Frontend%20Engineer&textBg=false&reversal=false" />
+<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá,%20Eu%20sou%20o%20Gabriel&fontSize=40&desc=Senior%20Frontend&textBg=false&reversal=false" />
 
-Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonado por criar **interfaces acessíveis, escaláveis e bem estruturadas**.
+Sou **Senior Frontend** com foco em **React, Angular e TypeScript**, apaixonado por criar **interfaces acessíveis, escaláveis e bem estruturadas**.
 
 Atuo principalmente em projetos de médio e grande porte, com atenção especial à **arquitetura frontend**, **acessibilidade (A11y)** e **qualidade de código**.
 
