@@ -28,3 +28,10 @@ Atuo principalmente em projetos de médio e grande porte, com atenção especial
 - 📧 Email: *gabrielluizs1996@gmail.com*
 
 
+<br><br>
+![React](https://img.shields.io/badge/React-Hooks%20%26%20SPA-61DAFB?logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-Senior-DD0031?logo=angular&logoColor=red)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?logo=typescript&logoColor=blue)
+![Microfrontends](https://img.shields.io/badge/Microfrontends-Single--SPA-6E40C9)
+![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%20%2F%20ARIA-2E7D32)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-45ba4b?logo=playwright&logoColor=white)
