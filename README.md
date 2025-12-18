@@ -1,93 +1,74 @@
-# 👋 Olá, eu sou o Gabriel
+<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://github.com/user-attachments/assets/9df46b6a-82d2-438f-95da-efb2821f3573" />
+<br><br>
 
-Sou **Desenvolvedor Frontend Sênior**, com foco em  **React**, **Angular**, **TypeScript** e **Acessibilidade (a11y)**. Gosto de criar interfaces que não só funcionam bem, mas que **realmente possam ser usadas por todas as pessoas**.
+Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonado por criar **interfaces acessíveis, escaláveis e bem estruturadas**.
 
-Tenho experiência em projetos de grande escala, arquitetura frontend, boas práticas de código e testes. Curto resolver problemas complexos com soluções simples, bem pensadas e sustentáveis.
+Atuo principalmente em projetos de médio e grande porte, com atenção especial à **arquitetura frontend**, **acessibilidade (A11y)** e **qualidade de código**.
 
-<div align="center" style="display: flex; gap: 12px; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300">
-</div>
-
-
----
-
-## 🚀 O que eu faço no dia a dia
-
-- Desenvolvimento frontend com **Angular** e **TypeScript**
-- Criação de interfaces acessíveis seguindo **WCAG** e boas práticas de a11y
-- Arquitetura e organização de aplicações frontend
-- Escrita de código limpo, reutilizável e bem testado
-- Testes automatizados (**Playwright**, **Jest**)
-- Colaboração próxima com design, produto e backend
-
+<br><br>
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="150">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150">
 </div>
+<br><br>
 
----
+## 🚀 Sobre mim
 
-## 🧠 Principais habilidades
+- 💼 Desenvolvedor Frontend Sênior
+- ♿ Forte atuação com **Acessibilidade Web (WCAG / ARIA)**
+- 🧪 Experiência com **testes automatizados**
+- 🧱 Arquitetura frontend, componentes reutilizáveis e boas práticas
+- 🤝 Trabalho próximo a designers, QA e times de produto
 
-- **React** (componentização, performance, arquitetura)
-- **Angular**
-- **TypeScript**
-- **Acessibilidade Web (WCAG e a11y)**
-- **HTML semântico & CSS moderno**
-- **Testes automatizados (Playwright)**
-- **Boas práticas e padrões de código**
-- **Experiência do usuário (UX)**
+Gosto de código limpo, bem documentado e que facilite a vida de quem vai manter depois.
 
----
-
-## ♿ Acessibilidade como prioridade
-
-Acredito que acessibilidade não é um "extra", é parte essencial do produto. Trabalho para que aplicações sejam:
-
-- Navegáveis por teclado
-- Compatíveis com leitores de tela
-- Semanticamente corretas
-- Inclusivas desde o design até o código
-
+<br><br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d">
 </div>
 
----
+<br><br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
+**Frontend**
 - React | Angular | TypeScript | JavaScript
 - HTML5 | CSS3 | SCSS
-- Playwright | Jest
-- Git | GitHub | GitLab
-- Figma
 
-<div align="center" style="display: flex; gap: 16px; align-items: center;">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/07d21402-7f68-4dae-99ea-548d0c3550bb" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5f0b7220-8d38-4820-825a-c54b1df5f215" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/425ea14e-2733-4887-83cf-1d8652e07b59" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/150b3040-44ea-4dff-816f-e3504410ed82" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a7cdd8b6-e7ed-4b7a-95c3-8c540840f3af" />
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/13f01e99-48ab-478f-83c5-ec5fe2b602fe" />
-</div>
+**Testes**
+- Playwright
 
----
+**Boas práticas**
+- Acessibilidade (A11y)
+- Clean Code
+- Componentização
+- Performance
 
-## 🤝 Vamos trocar ideia?
+**Ferramentas**
+- Git | GitHub
+- Figma (colaboração com design)
 
-- Curto conversar sobre frontend, acessibilidade e boas práticas
-- Aberto a colaborar em projetos e trocar conhecimento
-
+<br><br>
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="300">
+  <img width="53" height="53" alt="image" src="https://github.com/user-attachments/assets/67d532c9-b228-4ed4-8cf7-4ee5980a60ea" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/c50563e0-e091-4e68-9792-39f1691d5aa8" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/52c5a5bb-9eb2-4cea-97c1-bebb1e9cd900" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/92fd0a41-506d-44cc-9ce7-19e591dbc2c9" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/745320e0-1931-40de-90c3-96fb27efe596" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/0b4111b3-437f-4711-bd25-220b44133f53" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/bcae6da0-50b6-4451-b83c-daa6f4e27dce" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/5ebb19bc-97a2-4537-9162-bbf6832cfbef" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/6d61fc4e-0bc2-46c8-8d1a-eafc202d34a3" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/706c260b-ecee-4f1b-8f92-946980b979e9" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/a1989059-4eca-421f-bc1b-362652ad46b3" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/7ed6b00c-a035-43cb-927d-8c6599b52ce1" />
+  <img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/02f27bc0-3257-4ad9-b628-8f154a718a3e" />
 </div>
+<br><br>
 
-Se algum repositório te ajudar, fique à vontade pra usar, estudar ou sugerir melhorias 😊
+## 🌐 Contato
 
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielluizs1996)
+- 📧 Email: *gabrielluizs1996@gmail.com*
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-> "Código bom é aquele que funciona para todos."
 
