@@ -6,17 +6,6 @@ Sou **Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonad
 Atuo principalmente em projetos de médio e grande porte, com atenção especial à **arquitetura frontend**, **acessibilidade (A11y)** e **qualidade de código**.
 
 <br><br>
-## 🚀 Sobre mim
-
-- 💼 Desenvolvedor Frontend Sênior
-- ♿ Forte atuação com **Acessibilidade Web (WCAG / ARIA)**
-- 🧪 Experiência com **testes automatizados**
-- 🧱 Arquitetura frontend, componentes reutilizáveis e boas práticas
-- 🤝 Trabalho próximo a designers, QA e times de produto
-
-Gosto de código limpo, bem documentado e que facilite a vida de quem vai manter depois.
-
-<br><br>
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend**
