@@ -71,3 +71,7 @@ Tenho experiência em projetos de médio e grande porte, com forte atuação em:
 ## ⚡ Curiosidade
 
 Curto desde código até um bom som no violão 🎸 — e sim, às vezes resolvo bugs andando de skate 🛹
+
+<div align="center">
+  <img width="300" alt="Olá, Eu sou o Gabriel" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgyMWs5eXc4cmFqcmQwdmF6dHRzcWI1aWNsNjZ2bDV1ODNpbDYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
+</div>
