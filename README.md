@@ -1,64 +1,63 @@
-<img width="1700" height="460" alt="Olá, Eu sou o Gabriel" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=👋%20Olá,%20eu%20sou%20o%20Gabriel&fontSize=26&textBg=false&descAlignY=50" />
+![](https://komarev.com/ghpvc/?username=gabrielluizs1996&color=006bed)
 
-<p align="center">
-  💻 Engenheiro de Software Frontend • ⚙️ Arquitetura • ♿ Acessibilidade • 🚀 Aplicações Escaláveis
-</p>
+## Sobre mim
 
-
-## 👨‍💻 Sobre mim
-
-Sou **Senior Frontend Engineer** com foco em **React, Angular e TypeScript**, apaixonado por construir interfaces que vão além do visual — **acessíveis, performáticas e escaláveis**.
+Sou **Engenheiro de Software Frontend** com foco em **React, Angular e TypeScript**, apaixonado por construir interfaces que vão além do visual — **acessíveis, performáticas e escaláveis**.
 
 Tenho experiência em projetos de médio e grande porte, com forte atuação em:
 
-- 🧩 Arquitetura de Frontend  
-- ♿ Acessibilidade (WCAG / ARIA)  
-- 🧪 Qualidade de código e testes (E2E + unitários)  
-- ⚡ Performance e boas práticas  
+- 🧩 Arquitetura de Frontend
+- ♿ Acessibilidade (WCAG / ARIA)
+- 🧪 Qualidade de código e testes (E2E + unitários)
+- ⚡ Performance e boas práticas
 
-<br>
+## Minhas Skills
 
-## 🚀 Atualmente
+**Aplicações e dados**
 
-- 🔭 Trabalhando com aplicações escaláveis e arquitetura frontend  
-- 🌱 Aprimorando conhecimentos em **Design Systems** e **Microfrontends**  
-- 🤝 Aberto para colaborar em projetos que impactam pessoas  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Express](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Jest](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testinglibrary)
+![Monorepo NX](<https://img.shields.io/badge/-Monorepo%20(NX)-333333?style=flat&logo=nx>)
+![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-333333?style=flat&logo=mdnwebdocs)
 
+**Utilidades**
 
-## 🛠️ Tecnologias
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=nvda)
 
-<div align="center">
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/c50563e0-e091-4e68-9792-39f1691d5aa8" />
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/745320e0-1931-40de-90c3-96fb27efe596" />
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/0b4111b3-437f-4711-bd25-220b44133f53" />
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/a1989059-4eca-421f-bc1b-362652ad46b3" />
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/02f27bc0-3257-4ad9-b628-8f154a718a3e" />
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/5ebb19bc-97a2-4537-9162-bbf6832cfbef" />
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![Railway](https://img.shields.io/badge/-Railway-333333?style=flat&logo=railway)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+
+<br/>
+
+<div align="center" href="https://github.com/gabrielluizs1996" title="Perfil do Gabriel">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielluizs1996&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 </div>
 
+## Onde me encontrar
 
-<p align="center">
-
-![React](https://img.shields.io/badge/React-Hooks%20%26%20SPA-61DAFB?logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-Senior-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?logo=typescript&logoColor=white)
-![Microfrontends](https://img.shields.io/badge/Microfrontends-Single--SPA-6E40C9)
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-WCAG%20%2F%20ARIA-2E7D32)
-![Playwright](https://img.shields.io/badge/Playwright-E2E-45ba4b?logo=playwright&logoColor=white)
-
-</p>
-
-
-## 💬 Contato
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielluizs1996-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabrielluizs1996/)
-
-![Email](https://img.shields.io/badge/Email-gabrielluizs1996@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(13)_988547823-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5513988547823)
-
-</p>
-
-
+[![Linkedin](https://img.shields.io/badge/-gabrielluizs1996-blue?style=flat-square&logo=inspire&logoColor=white&link=https://www.linkedin.com/in/gabrielluizs1996/)](https://www.linkedin.com/in/gabrielluizs1996/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielluizs1996@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielluizs1996@gmail.com)](mailto:gabrielluizs1996@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabrielluizs1996?label=follow&style=social)](https://github.com/gabrielluizs1996/gabrielluizs1996)
