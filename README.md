@@ -30,7 +30,7 @@ Tenho experiência em projetos de médio e grande porte, com forte atuação em:
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=nvda)
+![NVDA](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=nvda)
 
 **DevOps**
 
@@ -52,7 +52,7 @@ Tenho experiência em projetos de médio e grande porte, com forte atuação em:
 
 <div align="center" href="https://github.com/gabrielluizs1996" title="Perfil do Gabriel">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielluizs1996&theme=dark&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielluizs1996&theme=radical&hide_border=true&short_numbers=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
 
